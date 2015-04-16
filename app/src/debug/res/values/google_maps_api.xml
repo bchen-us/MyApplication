@@ -1,0 +1,16 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=87:14:23:EA:1F:8D:AC:05:2A:4C:9D:2D:F4:0F:83:A3:8B:20:C9:B8%3Bcom.example.omer.myapplication
+
+    You can also add your credentials to an existing key, using this line:
+    87:14:23:EA:1F:8D:AC:05:2A:4C:9D:2D:F4:0F:83:A3:8B:20:C9:B8;com.example.omer.myapplication
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyCRazqWP_qSQ1ml31RBjKfrmLS8Lj0bIMs</string>
+</resources>
